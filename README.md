@@ -2,7 +2,11 @@
 
 Published map: https://khayoon.github.io/eastern-farming-expansion/
 
-This repository contains only the finished page and map image in `docs/`. The full atlas source, renderer, research notes, and working files are maintained separately in a private repository.
+Separate crop-only full version: https://khayoon.github.io/eastern-farming-expansion/world/
+
+The full version provides a world map and a combined western–eastern Eurasia view, with high-resolution PNG downloads and a regional evidence ledger. The earlier eastern page remains available separately.
+
+This repository contains only the finished pages and map images in `docs/`. The full atlas source, renderers, research notes, and working files are maintained separately in a private repository.
 
 The page includes the archaeological source ledger and uncertainty notes. Zones and arrows are schematic; they do not establish continuous settlement or migration. Credits for the reference map and Natural Earth are retained in the map and page.
 
